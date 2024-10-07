@@ -55,4 +55,8 @@ Run the engine:
 ```bash
 python cast_ai_engine.py
 ```
+
 Ensure your source code is in the defined location.
+Converting python file into EXE is under process.
+This is still under testing phase.
+If you face any issues please reach me s.p@castsoftware.com 
