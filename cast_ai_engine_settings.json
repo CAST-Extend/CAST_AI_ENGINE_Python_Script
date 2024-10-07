@@ -1,0 +1,22 @@
+{
+  "ai_model": {
+    "name": "gpt-4-32k",
+    "version": "2024-05-01-preview",
+    "url": "https://itappsopenaichn.openai.azure.com/",
+    "api_key": "",
+    "max_tokens": 32000
+  },
+  "imaging": {
+    "url": "http://localhost:5000/",
+    "api_key": ""
+  },
+  "input": {
+    "application_name": "Webgoat",
+    "request_id": "1",
+    "issue_id": "1200126",
+    "issue_name": "Green - Avoid Programs not using explicitly OPEN and CLOSE for files or streams",
+    "transformation_source": "green",
+    "transformation_target": "targeting Green (use specific credentials, Webgoat resource, 'us-west-2' region)",
+    "source_code_location": "C:\\ProgramData\\CAST\\AIP-Console-Standalone\\shared\\upload\\Webgoat\\main_sources\\"
+  }
+}
